@@ -1,0 +1,6 @@
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\nowy test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
