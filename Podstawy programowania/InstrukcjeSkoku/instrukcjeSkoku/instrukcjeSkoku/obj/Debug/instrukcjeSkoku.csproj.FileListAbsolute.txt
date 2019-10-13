@@ -1,0 +1,6 @@
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\bin\Debug\instrukcjeSkoku.exe.config
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\bin\Debug\instrukcjeSkoku.exe
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\bin\Debug\instrukcjeSkoku.pdb
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\obj\Debug\instrukcjeSkoku.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\obj\Debug\instrukcjeSkoku.exe
+C:\Users\hakue\Desktop\git testy\InstrukcjeSkoku\instrukcjeSkoku\instrukcjeSkoku\obj\Debug\instrukcjeSkoku.pdb

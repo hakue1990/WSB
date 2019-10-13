@@ -1,0 +1,6 @@
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\bin\Debug\Lekcja6 prostokat z  gwiazdek.exe.config
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\bin\Debug\Lekcja6 prostokat z  gwiazdek.exe
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\bin\Debug\Lekcja6 prostokat z  gwiazdek.pdb
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\obj\Debug\Lekcja6 prostokat z  gwiazdek.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\obj\Debug\Lekcja6 prostokat z  gwiazdek.exe
+C:\Users\hakue\Desktop\git testy\Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek\obj\Debug\Lekcja6 prostokat z  gwiazdek.pdb

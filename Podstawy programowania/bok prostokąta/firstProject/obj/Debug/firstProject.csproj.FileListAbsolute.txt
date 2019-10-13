@@ -1,0 +1,6 @@
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\bin\Debug\firstProject.exe.config
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\bin\Debug\firstProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\bin\Debug\firstProject.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\obj\Debug\firstProject.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\obj\Debug\firstProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\firstProject\firstProject\obj\Debug\firstProject.pdb

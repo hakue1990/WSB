@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja6 prostokat z  gwiazdek", "Lekcja6 prostokat z  gwiazdek\Lekcja6 prostokat z  gwiazdek.csproj", "{CD5DB956-F59C-40E5-95B7-BBC7EE7C2702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5DB956-F59C-40E5-95B7-BBC7EE7C2702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5DB956-F59C-40E5-95B7-BBC7EE7C2702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5DB956-F59C-40E5-95B7-BBC7EE7C2702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5DB956-F59C-40E5-95B7-BBC7EE7C2702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6248406E-E570-4F9A-96A3-D911F6E63AD0}
+	EndGlobalSection
+EndGlobal

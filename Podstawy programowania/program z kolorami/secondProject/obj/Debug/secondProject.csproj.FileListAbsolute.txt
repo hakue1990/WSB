@@ -1,0 +1,12 @@
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\bin\Debug\secondProject.exe.config
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\bin\Debug\secondProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\bin\Debug\secondProject.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\obj\Debug\secondProject.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\obj\Debug\secondProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\secondProject\secondProject\obj\Debug\secondProject.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\bin\Debug\secondProject.exe.config
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\bin\Debug\secondProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\bin\Debug\secondProject.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\obj\Debug\secondProject.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\obj\Debug\secondProject.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\program z kolorami\secondProject\obj\Debug\secondProject.pdb
