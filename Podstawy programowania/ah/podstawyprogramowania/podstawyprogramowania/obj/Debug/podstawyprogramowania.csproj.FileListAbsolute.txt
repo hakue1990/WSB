@@ -1,6 +1,0 @@
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\obj\Debug\podstawyprogramowania.csprojAssemblyReference.cache
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\bin\Debug\podstawyprogramowania.exe.config
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\bin\Debug\podstawyprogramowania.exe
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\bin\Debug\podstawyprogramowania.pdb
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\obj\Debug\podstawyprogramowania.exe
-C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\obj\Debug\podstawyprogramowania.pdb
