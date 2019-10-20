@@ -4,3 +4,9 @@ C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\bin\Debu
 C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\bin\Debug\podstawyprogramowania.pdb
 C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\obj\Debug\podstawyprogramowania.exe
 C:\Users\student\Desktop\ah\podstawyprogramowania\podstawyprogramowania\obj\Debug\podstawyprogramowania.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\bin\Debug\podstawyprogramowania.exe.config
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\bin\Debug\podstawyprogramowania.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\bin\Debug\podstawyprogramowania.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\obj\Debug\podstawyprogramowania.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\obj\Debug\podstawyprogramowania.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\tabliczka mnożenia i inne\podstawyprogramowania\obj\Debug\podstawyprogramowania.pdb

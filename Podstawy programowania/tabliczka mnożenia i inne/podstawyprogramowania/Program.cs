@@ -95,25 +95,19 @@ namespace podstawyprogramowania
 
 
             //Wyświetl tabliczke mnożenia za pomocą dwóch pętli do while
-            int row1 = 1;
-            int col1 = 1;
+
             int tabliczka;
 
-            do
+            for (int i = 1; i <= 10; i++)
             {
-                do
+                for (int j = 1; j <= 10; j++)
                 {
-                    Console.WriteLine();
-                    col1++;
-                    tabliczka = row1 * col1;
-                    Console.WriteLine(row1 + "\t");
-                } while (col1<=10);
-                row1++;
-                Console.Write(col1 + "\t");
-            } while (row1 <=10);
-
-        
-
+                    tabliczka = i * j;
+                    Console.Write(tabliczka + "\t");
+                }
+                
+                Console.WriteLine( "\t");
+            }
 
             Console.ReadKey();
         }
