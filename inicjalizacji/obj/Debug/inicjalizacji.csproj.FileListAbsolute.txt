@@ -1,6 +1,0 @@
-C:\Users\student\Desktop\inicjalizacji\bin\Debug\inicjalizacji.exe.config
-C:\Users\student\Desktop\inicjalizacji\bin\Debug\inicjalizacji.exe
-C:\Users\student\Desktop\inicjalizacji\bin\Debug\inicjalizacji.pdb
-C:\Users\student\Desktop\inicjalizacji\obj\Debug\inicjalizacji.csprojAssemblyReference.cache
-C:\Users\student\Desktop\inicjalizacji\obj\Debug\inicjalizacji.exe
-C:\Users\student\Desktop\inicjalizacji\obj\Debug\inicjalizacji.pdb
