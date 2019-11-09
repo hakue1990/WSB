@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\WSB\WSBtabliceETC\bin\Debug\WSBtabliceETC.exe.config
+C:\Users\student\Desktop\WSB\WSBtabliceETC\bin\Debug\WSBtabliceETC.exe
+C:\Users\student\Desktop\WSB\WSBtabliceETC\bin\Debug\WSBtabliceETC.pdb
+C:\Users\student\Desktop\WSB\WSBtabliceETC\obj\Debug\WSBtabliceETC.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WSB\WSBtabliceETC\obj\Debug\WSBtabliceETC.exe
+C:\Users\student\Desktop\WSB\WSBtabliceETC\obj\Debug\WSBtabliceETC.pdb
