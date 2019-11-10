@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\student\Desktop\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\student\Desktop\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\student\Desktop\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\student\Desktop\Exceptions\obj\Debug\Exceptions.pdb
