@@ -3,3 +3,9 @@ C:\Users\student\Desktop\Exceptions3\bin\Debug\Exceptions3.exe
 C:\Users\student\Desktop\Exceptions3\bin\Debug\Exceptions3.pdb
 C:\Users\student\Desktop\Exceptions3\obj\Debug\Exceptions3.exe
 C:\Users\student\Desktop\Exceptions3\obj\Debug\Exceptions3.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\bin\Debug\Exceptions3.exe.config
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\bin\Debug\Exceptions3.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\bin\Debug\Exceptions3.pdb
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\obj\Debug\Exceptions3.csprojAssemblyReference.cache
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\obj\Debug\Exceptions3.exe
+C:\Users\hakue\Desktop\WSB\Podstawy programowania\Exceptions3\obj\Debug\Exceptions3.pdb
