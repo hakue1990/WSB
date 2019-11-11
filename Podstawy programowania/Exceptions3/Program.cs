@@ -28,25 +28,29 @@ namespace Exceptions3
                 try
                 {
                     string tabindex; // deklaracja dlugosci tablicy
-                    Console.WriteLine("\nPodaj ile ma byc elementów tablicy: ");
+                    Console.WriteLine("\nPodaj ile ma byc człornków rodziny: ");
                     tabindex = Console.ReadLine(); // pobranie dlugosci tablicy od uzytkownika
                     int newIntNumber = Int32.Parse(tabindex);
                     uint number;
                     string[] answer = new string[newIntNumber];
+                    double srednia = 0.0;
                     for (int i = 0; i < newIntNumber; i++)
                     {
-                        Console.WriteLine("Podaj jakie to ma być elementy tablicy: {0} ", i + 1);
+                        Console.WriteLine("Podaj wiek członka rodziny: {0} ", i + 1);
                         answer[i] = Console.ReadLine();
-
+                        int newUserAge1 = int.Parse(answer[i]);
+                        srednia += newUserAge1;
                     }
                     for (int j = 0; j < newIntNumber; j++)
                     {
-                        Console.WriteLine("element {1} to: {0}", answer[j], j + 1);
-
+                        Console.WriteLine("wiek {1} członka rodziny to: {0}", answer[j], j + 1);
                     }
-                    Console.WriteLine("jaki jest ostatni element tablicy?");
+                    Console.ForegroundColor = ConsoleColor.DarkBlue;
+                    Console.WriteLine("Srednia wieku userów to {0}", srednia / newIntNumber);
+                        Console.ResetColor();
+                    Console.WriteLine("Jaki jest wiek ostatniego członka rodziny?");
             Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Ostatni element to: {0}", answer[answer.Length - 1]);
+                    Console.WriteLine("Wiek ostatniego członka rodziny to: {0}", answer[answer.Length - 1]);
                     number = uint.Parse(tabindex);
                     break;
 
@@ -78,6 +82,8 @@ namespace Exceptions3
                     Console.ResetColor();
                 }
             }
+            Console.ReadKey();
+            Console.ReadKey();
             Console.ReadKey();
         }
     }
