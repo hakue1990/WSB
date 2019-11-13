@@ -1,0 +1,6 @@
+C:\Users\hakue\source\repos\TryParse\TryParse\obj\Debug\TryParse.csprojAssemblyReference.cache
+C:\Users\hakue\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\hakue\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\hakue\source\repos\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\hakue\source\repos\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\hakue\source\repos\TryParse\TryParse\obj\Debug\TryParse.pdb
