@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\biblioteki\bin\Debug\biblioteki.dll
+C:\Users\student\Desktop\biblioteki\bin\Debug\biblioteki.pdb
+C:\Users\student\Desktop\biblioteki\obj\Debug\biblioteki.csprojAssemblyReference.cache
+C:\Users\student\Desktop\biblioteki\obj\Debug\biblioteki.dll
+C:\Users\student\Desktop\biblioteki\obj\Debug\biblioteki.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\tworzenieBibliotek\bin\Debug\tworzenieBibliotek.exe.config
+C:\Users\student\Desktop\tworzenieBibliotek\bin\Debug\tworzenieBibliotek.exe
+C:\Users\student\Desktop\tworzenieBibliotek\bin\Debug\tworzenieBibliotek.pdb
+C:\Users\student\Desktop\tworzenieBibliotek\obj\Debug\tworzenieBibliotek.csprojAssemblyReference.cache
+C:\Users\student\Desktop\tworzenieBibliotek\obj\Debug\tworzenieBibliotek.exe
+C:\Users\student\Desktop\tworzenieBibliotek\obj\Debug\tworzenieBibliotek.pdb
