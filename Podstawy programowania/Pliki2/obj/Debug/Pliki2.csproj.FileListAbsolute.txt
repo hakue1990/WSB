@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\ah\Pliki2\bin\Debug\Pliki2.exe.config
+C:\Users\student\Desktop\ah\Pliki2\bin\Debug\Pliki2.exe
+C:\Users\student\Desktop\ah\Pliki2\bin\Debug\Pliki2.pdb
+C:\Users\student\Desktop\ah\Pliki2\obj\Debug\Pliki2.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ah\Pliki2\obj\Debug\Pliki2.exe
+C:\Users\student\Desktop\ah\Pliki2\obj\Debug\Pliki2.pdb
