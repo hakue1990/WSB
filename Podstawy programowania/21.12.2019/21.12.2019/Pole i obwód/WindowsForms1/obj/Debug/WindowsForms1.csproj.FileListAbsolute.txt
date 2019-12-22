@@ -1,0 +1,9 @@
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe.config
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.pdb
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Pole_i_obwód.resources
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Properties.Resources.resources
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.GenerateResource.cache
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.exe
+C:\xampp\htdocs\git3\21.12.2019\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.pdb
