@@ -1,0 +1,6 @@
+C:\Users\hakue\source\repos\Silnia\Silnia\obj\Debug\Silnia.csprojAssemblyReference.cache
+C:\Users\hakue\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe.config
+C:\Users\hakue\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe
+C:\Users\hakue\source\repos\Silnia\Silnia\bin\Debug\Silnia.pdb
+C:\Users\hakue\source\repos\Silnia\Silnia\obj\Debug\Silnia.exe
+C:\Users\hakue\source\repos\Silnia\Silnia\obj\Debug\Silnia.pdb
