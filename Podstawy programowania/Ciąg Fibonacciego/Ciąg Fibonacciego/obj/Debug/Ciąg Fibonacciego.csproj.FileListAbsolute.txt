@@ -1,0 +1,6 @@
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe.config
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.pdb
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csprojAssemblyReference.cache
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.exe
+C:\Users\hakue\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.pdb
